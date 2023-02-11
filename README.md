@@ -8,4 +8,4 @@ Browse my [projects](https://moregeneric.ca/projects) and read more on my [perso
 - 🌱 I’m currently learning web development, C++ and signal processing.
 - 📫 How to reach me: gaelan (dot) mcmillan (at) gmail (dot com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaelanmcmillan&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaelanmcmillan&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
