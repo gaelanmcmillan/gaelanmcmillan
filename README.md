@@ -1,6 +1,6 @@
 ### Hi, I'm Gaelan 👋
 
-Professional musician for 10+ years. Passionate student of computer science and software engineering!
+Passionate student of computer science and software engineering!
 
 Browse my [projects](https://moregeneric.ca/projects) and read more on my [personal website](https://moregeneric.ca)!!!
 
